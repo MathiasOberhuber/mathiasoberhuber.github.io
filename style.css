@@ -118,3 +118,20 @@ pre{
 .sbtn{
     margin-left: 1em;
 }
+
+.img-fluid.rounded-circle {
+  width: 170px;
+  height: 170px; 
+  object-fit: cover; 
+}
+
+.icon-row {
+  width: 170px;
+  margin: 0 auto;
+  display: flex !important;
+  justify-content: center;
+}
+
+.icon-row span {
+  margin: 0 8px;
+}
